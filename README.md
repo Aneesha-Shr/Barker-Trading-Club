@@ -1,5 +1,8 @@
 # Barker-Trading-Club
 
+Welcome to the University of Idaho's Barker Quantitative Trading Club Github Repository! This is a space fo the BQTC projects to be hosted and organized. If you are a member:
+1. Find your branch using the....
 
-<img width="920" height="648" alt="image" src="https://github.com/user-attachments/assets/2e2ff2d6-5adc-4746-825a-0e1070c4ab24" />
+
+<img width="460" height="324" alt="image" src="https://github.com/user-attachments/assets/2e2ff2d6-5adc-4746-825a-0e1070c4ab24" />
 
